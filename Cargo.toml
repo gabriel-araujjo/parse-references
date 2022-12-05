@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "parse-references",
+    "derive-from-tags",
+    "fix-years",
+]
